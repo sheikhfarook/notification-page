@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Mark Webber",
+    "notification": "reacted to your recent post",
+    "bolt": "My first tournament today!",
+    "time": "1m ago",
+    "avatar": "path/to/mark.svg"
+  },
+  {
+    "name": "Angela Gray",
+    "notification": "followed you",
+    "time": "5m ago",
+    "avatar": "path/to/angela.svg"
+  },
+  {
+    "name": "Jacob Thompson",
+    "notification": "has joined your group",
+    "bolt": "Chess Club",
+    "time": "1day ago",
+    "avatar": "path/to/jacob.svg"
+  },
+  {
+    "name": "Rizky Hasanuddin",
+    "notification": "sent you a private message",
+    "message": "Hello, thanks for setting up the Chess Club. I’ve been a member for a few weeks now and I’m already having lots of fun and improving my game.",
+    "time": "5 days ago",
+    "avatar": "path/to/rizky.svg"
+  },
+  {
+    "name": "Kimberly Smith",
+    "notification": "commented on your picture",
+    "time": "1 weeks ago",
+    "avatar1": "path/to/kimberly.svg",
+    "avatar2": "path/to/rect.svg"
+  },
+  {
+    "name": "Nathan Peterson",
+    "notification": "reacted to your recent post",
+    "bolt": "5 end-game strategies to increase your win rate",
+    "time": "2 weeks ago",
+    "avatar": "path/to/nathan.svg"
+  },
+  {
+    "name": "Anna Kim",
+    "notification": "left the group",
+    "bolt": "Chess Club",
+    "time": "2 weeks ago",
+    "avatar": "path/to/anna.svg"
+  }
+]
